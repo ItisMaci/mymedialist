@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\mediahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\mediahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\ratinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\ratinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\iatom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\iatom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\pgdatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:pgdatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\genrehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\genrehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\atom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\atom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\server\\httprestserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:server\\httprestserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\server\\httpresteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:server\\httpresteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\system\\versionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:system\\versionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\handlers\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:handlers\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|c:\\users\\macsc\\desktop\\swen\\mymedialist\\mymedialist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2333D51D-76DE-42ED-8444-D267DBFFD3E9}|MyMediaList.csproj|solutionrelative:mymedialist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Rating.cs",
+              "RelativeDocumentMoniker": "System\\Rating.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Rating.cs",
+              "RelativeToolTip": "System\\Rating.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:01:38.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\MediaHandler.cs",
+              "RelativeDocumentMoniker": "System\\MediaHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\MediaHandler.cs",
+              "RelativeToolTip": "System\\MediaHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:01:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Media.cs",
+              "RelativeDocumentMoniker": "System\\Media.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Media.cs",
+              "RelativeToolTip": "System\\Media.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:01:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Genre.cs",
+              "RelativeDocumentMoniker": "System\\Genre.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Genre.cs",
+              "RelativeToolTip": "System\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:00:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\UserHandler.cs",
+              "RelativeDocumentMoniker": "System\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\UserHandler.cs",
+              "RelativeToolTip": "System\\UserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:44:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\User.cs",
+              "RelativeDocumentMoniker": "System\\User.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\User.cs",
+              "RelativeToolTip": "System\\User.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:44:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\SessionHandler.cs",
+              "RelativeDocumentMoniker": "System\\SessionHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\SessionHandler.cs",
+              "RelativeToolTip": "System\\SessionHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:43:25.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Session.cs",
+              "RelativeDocumentMoniker": "System\\Session.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Session.cs",
+              "RelativeToolTip": "System\\Session.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwFsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:42:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Atom.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Atom.cs",
+              "RelativeDocumentMoniker": "System\\Atom.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\Atom.cs",
+              "RelativeToolTip": "System\\Atom.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:42:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAtom.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\IAtom.cs",
+              "RelativeDocumentMoniker": "System\\IAtom.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\IAtom.cs",
+              "RelativeToolTip": "System\\IAtom.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:41:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pgdatabase.txt",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\pgdatabase.txt",
+              "RelativeDocumentMoniker": "pgdatabase.txt",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\pgdatabase.txt",
+              "RelativeToolTip": "pgdatabase.txt",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-28T17:18:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:22:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RatingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\RatingHandler.cs",
+              "RelativeDocumentMoniker": "System\\RatingHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\RatingHandler.cs",
+              "RelativeToolTip": "System\\RatingHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:01:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenreHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\GenreHandler.cs",
+              "RelativeDocumentMoniker": "System\\GenreHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\GenreHandler.cs",
+              "RelativeToolTip": "System\\GenreHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:00:56.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VersionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\VersionHandler.cs",
+              "RelativeDocumentMoniker": "System\\VersionHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\System\\VersionHandler.cs",
+              "RelativeToolTip": "System\\VersionHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:43:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Handlers\\Handler.cs",
+              "RelativeDocumentMoniker": "Handlers\\Handler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Handlers\\Handler.cs",
+              "RelativeToolTip": "Handlers\\Handler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:33:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Handlers\\IHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\IHandler.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Handlers\\IHandler.cs",
+              "RelativeToolTip": "Handlers\\IHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:33:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpRestEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Server\\HttpRestEventArgs.cs",
+              "RelativeDocumentMoniker": "Server\\HttpRestEventArgs.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Server\\HttpRestEventArgs.cs",
+              "RelativeToolTip": "Server\\HttpRestEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:31:19.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HttpRestServer.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Server\\HttpRestServer.cs",
+              "RelativeDocumentMoniker": "Server\\HttpRestServer.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Server\\HttpRestServer.cs",
+              "RelativeToolTip": "Server\\HttpRestServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:30:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:59:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyMediaList.csproj",
+              "DocumentMoniker": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\MyMediaList.csproj",
+              "RelativeDocumentMoniker": "MyMediaList.csproj",
+              "ToolTip": "C:\\Users\\macsc\\Desktop\\SWEN\\MyMediaList\\MyMediaList.csproj",
+              "RelativeToolTip": "MyMediaList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T15:41:32.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
